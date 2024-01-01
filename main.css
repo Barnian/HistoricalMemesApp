@@ -1,0 +1,7 @@
+QPushButton{
+    position: center;
+    text-align: center;
+}
+QMainWindow {
+    background: linear-gradient(blue, pink);
+}
